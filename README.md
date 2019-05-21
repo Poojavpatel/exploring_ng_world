@@ -1,5 +1,44 @@
-# ExploringNgWorld
+# Exploring the Ng World
 
+## Useful Commands
+
+* ### To install angular cli
+    ```
+    $ npm install -g @angular/cli
+    ```
+* ### To refrence/call angular cli
+    ```
+    $ ng
+    ```
+* ### To create an app
+    ```
+    $ ng new exploring-ng-world --style=scss --routing
+    ```
+* ### To serve when its open
+    ```
+    $ ng serve -o
+    ```
+    Here o means open   
+    Starts a development server at port 4200
+* ### To refrence/call angular cli
+    ```
+    $ ng
+    ```
+* ### To refrence/call angular cli
+    ```
+    $ ng
+    ```
+* ### To refrence/call angular cli
+    ```
+    $ ng
+    ```
+* ### To refrence/call angular cli
+    ```
+    $ ng
+    ```
+
+
+---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
